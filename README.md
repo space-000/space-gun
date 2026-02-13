@@ -1,4 +1,4 @@
 # space-gun
 
 # premissa
-Em 2490 a terra esta rodeada pelo lixo espacial que foi lançado por seculos na atmosfera. Você trabalha na Clear Sky, uma comporação que ficou respnsavel pela limpeza do espaço.  
+Em 2490, a Terra está rodeada pelo lixo espacial que foi lançado por séculos na atmosfera. Você trabalha na Clear Sky, uma corporação que ficou responsável pela limpeza do espaço.
