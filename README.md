@@ -11,3 +11,8 @@ vertical shooter, 2 players
 ao passar de fase, animação de chegando em um planeta
 ao chegar no planeta vira tower defense.
 
+
+##outros
+- referencias
+- personagens
+- regras
