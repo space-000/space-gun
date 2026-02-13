@@ -7,7 +7,7 @@ Em 2490, a Terra está rodeada pelo lixo espacial que foi lançado por séculos 
 
 
 ## ideias
-vertical shooter
-ao passar de fas, animação de chegando em um planeta
+vertical shooter, 2 players
+ao passar de fase, animação de chegando em um planeta
 ao chegar no planeta vira tower defense.
 
