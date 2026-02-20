@@ -13,21 +13,17 @@ Revision: 0.0.1
   - Modelo de Monetização (Breve/Documento)
   - Escopo do Projeto
   - Influências (Breve)
-    - <Bloons TD6>
-    - <Influência #2>
-    - <Influência #3>
-    - <Influência #4>
-
+    - <BloonsTD6>
+    - <Xenon2:Megablast >
   - O "Pitch NO Elevador" (Elevator Pitch)
-  Descrição do Projeto (Breve)
-  Descrição do Projeto (Detalhada)
+  - Descrição do Projeto (Breve)
+  - Descrição do Projeto (Detalhada)
 - O que torna este projeto único?
   - Mecânicas Principais de Gameplay (Detalhadas)
-
-  - <Mecânica Principal #1>
-  - <Mecânica Principal #2>
-  - <Mecânica Principal #3>
-  - <Mecânica Principal #4>
+    - <Mecânica Principal #1>
+    - <Mecânica Principal #2>
+    - <Mecânica Principal #3>
+    - <Mecânica Principal #4>
 - História e Gameplay
   - História (Breve)
   - História (Detalhada)
@@ -45,11 +41,12 @@ Revision: 0.0.1
   - <Objeto #3>
   - <Objeto #4>
 # Visão Geral
-# tema / Ambientação / Gênero
 
+
+# Futurista/ Ficção/ Wars
 # Resumo das Mecânicas Principais de Gameplay
-  - <Mecânica de Gameplay #1>
-  - <Mecânica de Gameplay #2>
+  - <Atirar >
+  - <melhorar tiro>
   - <Mecânica de Gameplay #3>
   - <Mecânica de Gameplay #4>
 # Plataformas-alvo
@@ -200,7 +197,7 @@ Finja que você está apresentando seu jogo para um executivo entrando no elevad
     - Exemplo
 
 # Cronograma
-- <Objeto #1>
+- Limpar Aliens e entender com funciona
   - Escala de Tempo
     - Marco (Milestone) 1
     - Marco (Milestone) 2
