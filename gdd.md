@@ -13,7 +13,7 @@ Revision: 0.0.1
   - Modelo de Monetização (Breve/Documento)
   - Escopo do Projeto
   - Influências (Breve)
-    - <BloonsTD6>
+    - <BloonsTD6 >
     - <Xenon2:Megablast >
   - O "Pitch NO Elevador" (Elevator Pitch)
   - Descrição do Projeto (Breve)
