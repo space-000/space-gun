@@ -5,239 +5,218 @@ Revision: 0.0.1
 
 > GDD Template Written by: Benjamin “HeadClot” Stanley
 
-- Overview
-  - Theme / Setting / Genre
-  - Core Gameplay Mechanics Brief
-  - Targeted platforms
-  - Monetization model (Brief/Document)
-  - Project Scope
-  - Influences (Brief)
-    - <Influence #1>
-    - <Influence #2>
-    - <Influence #3>
-    - <Influence #4>
-  - The elevator Pitch
-  - Project Description (Brief):
-  - Project Description (Detailed)
-- What sets this project apart?
-  - Core Gameplay Mechanics (Detailed)
-    - <Core Gameplay Mechanic #1>
-    - <Core Gameplay Mechanic #2>
-    - <Core Gameplay Mechanic #3>
-    - <Core Gameplay Mechanic #4>
-- Story and Gameplay
-  - Story (Brief)
-  - Story (Detailed)
-  - Gameplay (Brief)
-  - Gameplay (Detailed)
-- Assets Needed
+
+- Visão Geral
+  - Tema / Ambientação / Gênero
+  - Resumo das Mecânicas Principais de Gameplay
+  - Plataformas-alvo
+  - Modelo de Monetização (Breve/Documento)
+  - Escopo do Projeto
+  - Influências (Breve)
+    - <Bloons TD6>
+    - <Influência #2>
+    - <Influência #3>
+    - <Influência #4>
+
+  - O "Pitch NO Elevador" (Elevator Pitch)
+  Descrição do Projeto (Breve)
+  Descrição do Projeto (Detalhada)
+- O que torna este projeto único?
+  - Mecânicas Principais de Gameplay (Detalhadas)
+
+  - <Mecânica Principal #1>
+  - <Mecânica Principal #2>
+  - <Mecânica Principal #3>
+  - <Mecânica Principal #4>
+- História e Gameplay
+  - História (Breve)
+  - História (Detalhada)
+  - Gameplay (Breve)
+  - Gameplay (Detalhado)
+- Recursos Necessários (Assets)
   - 2D
   - 3D
-  - Sound
-  - Code
-  - Animation
-- Schedule
-  - <Object #1>
-  - <Object #2>
-  - <Object #3>
-  - <Object #4>
+  - Som
+  - Código
+  - Animação
+- Cronograma
+  - <Objeto #1>
+  - <Objeto #2>
+  - <Objeto #3>
+  - <Objeto #4>
+# Visão Geral
+# tema / Ambientação / Gênero
 
+# Resumo das Mecânicas Principais de Gameplay
+  - <Mecânica de Gameplay #1>
+  - <Mecânica de Gameplay #2>
+  - <Mecânica de Gameplay #3>
+  - <Mecânica de Gameplay #4>
+# Plataformas-alvo
+  - <Exemplo de Plataforma #1 aqui>
+  - <Exemplo de Plataforma #2 aqui>
+  - <Exemplo de Plataforma #3 aqui>
 
-# Overview
+# Modelo de Monetização (Breve/Documento)
+  - Tipo de Monetização: (Premium, Alfa/Beta/Final Pago, Baseado em Anúncios, Microtransações, Assinatura, etc.)
+  - Link para o Documento de Monetização: (Como você planeja monetizar o jogo?)
+# Escopo do Projeto
+- Escala de Tempo e Custo
+    - Custo? (Quanto custará para ser feito?)
+    - Escala de Tempo: (Quanto tempo levará para fazer este jogo?)
+- Tamanho da Equipe
+  - Equipe Principal
+    - Nome do membro da equipe?
+        - O que ele/ela faz?
+        - Custo para empregá-lo em tempo integral ou parcial.
+    - etc. (Liste quantos membros da equipe principal forem necessários)
+  - Equipe de Marketing
+    - Nome do membro da equipe?
+        - O que ele/ela faz?
+        - Custo para empregá-lo em tempo integral ou parcial.
+    - Etc. (Liste quantos membros da equipe de marketing forem necessários)
+  - Licenças / Hardware / Outros Custos
+  - Custos Totais com detalhamento
 
+#Influências (Breve)
+- Influência #1
+  - Mídia: (Televisão, Jogos, Literatura, Filmes, etc.)
+  - /Explique por que isso é uma influência em 1 parágrafo ou menos/
+- Influência #2
+  - Mídia: (Televisão, Jogos, Literatura, Filmes, etc.)
+  - /Explique por que isso é uma influência em 1 parágrafo ou menos/
+- Influência #3
+  - Mídia: (Televisão, Jogos, Literatura, Filmes, etc.)
+  - /Explique por que isso é uma influência em 1 parágrafo ou menos/
+- Influência #4
+  - Mídia: (Televisão, Jogos, Literatura, Filmes, etc.)
+  - /Explique por que isso é uma influência em 1 parágrafo ou menos/
 
-## Theme / Setting / Genre
+# O Pitch de Elevador (Elevator Pitch)
+[Uma frase de apresentação para o seu jogo.]
+Finja que você está apresentando seu jogo para um executivo entrando no elevador. Você tem menos de 60 segundos.
 
-<Insert Theme here>
+# Descrição do Projeto (Breve)
+[Mínimo de dois parágrafos]
+[No máximo três parágrafos]
 
-## Core Gameplay Mechanics Brief
+# Descrição do Projeto (Detalhada)
+[Quatro parágrafos ou mais, se necessário]
+[No máximo seis parágrafos]
 
-  - <Gameplay Mechanic #1>
-  - <Gameplay Mechanic #2>
-  - <Gameplay Mechanic #3>
-  - <Gameplay Mechanic #4>
+# O que torna este projeto único?
+- <Razão #1>
+- <Razão #2>
+- <Razão #3>
+- <Razão #4>
+- <etc.>
+# Mecânicas Principais de Gameplay (Detalhadas)
+- [Mecânica Principal #1]
+  - [Detalhes]: /Descreva em 2 parágrafos ou menos/
+  - [Como funciona]: /Descreva em 2 parágrafos ou menos/
+- [Mecânica Principal #2]
+  - [Detalhes]: /Descreva em 2 parágrafos ou menos/
+  - [Como funciona]: /Descreva em 2 parágrafos ou menos/
+- [Mecânica Principal #3]
+  - [Detalhes]: /Descreva em 2 parágrafos ou menos/
+  - [Como funciona]: /Descreva em 2 parágrafos ou menos/
+- [Mecânica Principal #4]
+  - [Detalhes]: /Descreva em 2 parágrafos ou menos/
+  - [Como funciona]: /Descreva em 2 parágrafos ou menos/
+# História e Gameplay
+# História (Breve)
+[O resumo ou versão "TL;DR" do conteúdo abaixo]
 
-## Targeted platforms
-  - <Example Platform #1 Here>
-  - <Example Platform #2 Here>
-  - <Example Platform #3 Here>
+# História (Detalhada)
+[Vá em tantos detalhes quanto forem necessários]
+[Não poupe detalhes]
+[Use softwares de mapeamento mental para transmitir sua ideia]
 
-## Monetization model (Brief/Document) 
-  - Monetization Type (Premium, Paid Alpha/Beta/Final, Ad Driven, Micro-transactions, Subscription, etc.)
-  - Link to Monetization Document (How do you plan to monetize the game?)
+# Gameplay (Breve)
+[A versão resumida do conteúdo abaixo]
 
-## Project Scope 
-  - Game Time Scale
-    - Cost? (How much will it cost?)
-    - Time Scale (How long will it take to make this game?)
-  - Team Size
-    - Core Team
-      - Team Member name?
-        - What does he/she do?
-        - Cost to employ them full time or part time
-      - etc. (List as many core team members as you need to)
-    - Marketing Team
-      - Team Member name?
-        - What does he/she do?
-        - Cost to employ them full time or part time
-      - Etc. (List as many marketing team members as you need to)
-    - Licenses / Hardware / Other Costs
-    - Total Costs with breakdown
+# Gameplay (Detalhado)
+[Vá em tantos detalhes quanto forem necessários]
+[Não poupe detalhes]
+[Combine isso com a seção de mecânicas de jogo acima]
 
-## Influences (Brief)
-  - Influence #1
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-  - Influence #2
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-  - Influence #3
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-  - Influence #4>
-    - Medium (Television, Games, Literature, Movies, etc.)
-    - /Explain why this is an influence in 1 Paragraph or less/
-
-## The elevator Pitch
-
-[A one sentence pitch for your game.]
-Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds.
-
-## Project Description (Brief):
-
-[Two Paragraphs at least]
-[No more than three paragraphs]
-
-## Project Description (Detailed)
-
-[Four Paragraphs or more If needs be]
-[No more than six paragraphs]
-
-# What sets this project apart?
-  - <Reason #1>
-  - <Reason #2>
-  - <Reason #3>
-  - <Reason #4>
-  - <etc.>
-
-## Core Gameplay Mechanics (Detailed)
-  - [Core Gameplay Mechanic #1]
-    - [Details] /Describe in 2 Paragraphs or less/
-    - [How it works] /Describe in 2 Paragraphs or less/
-  - [Core Gameplay Mechanic #2]
-    - [Details] /Describe in 2 Paragraphs or less/
-    - [How it works] /Describe in 2 Paragraphs or less/
-  - [Core Gameplay Mechanic #3]
-    - [Details] /Describe in 2 Paragraphs or less/
-    - [How it works] /Describe in 2 Paragraphs or less/
-  - [Core Gameplay Mechanic #4]
-    - [Details] /Describe in 2 Paragraphs or less/
-    - [How it works] /Describe in 2 Paragraphs or less/
-
-# Story and Gameplay
-
-## Story (Brief)
-
-[The Summary or TL;DR version of below]
-
-## Story (Detailed)
-
-[Go into as much detail as needs be]
-[Spare no detail]
-[Use Mind Mapping software to get your point across]
-
-## Gameplay (Brief)
-
-[The Summary version of below]
-
-## Gameplay (Detailed)
-
-[Go into as much detail as needs be]
-[Spare no detail]
-[Combine this with the game mechanics section above]
-
-# Assets Needed
-
-## 2D
-  - Textures
-    - Environment Textures
-  - Heightmap data (If applicable)
-    - List required data required - Example: DEM data of the entire UK.
-  - Etc.
-
-## 3D
-  - Characters List
-    - Character #1
-    - Character #2
-    - Character #3
+# Recursos Necessários (Assets)
+# 2D
+- Texturas
+  - Texturas de Ambiente
+- Dados de Mapa de Altura (Heightmap) (Se aplicável)
+  - Liste os dados necessários - Exemplo: Dados DEM de todo o Reino Unido.
+- Etc.
+# 3D
+- Lista de Personagens
+  - Personagem #1
+  - Personagem #2
+  - Personagem #3
+  - etc.
+- Listas de Arte Ambiental
+  - Exemplo #1
+  - Exemplo #2
+  - Exemplo #3
+  - etc.
+# Som
+- Lista de Sons (Ambiente)
+  - Externo (Outside)
+  - Nível 1
+  - Nível 2
+  - Nível 3
+  - etc.
+- Interno (Inside)
+  - Nível 1
+  - Nível 2
+  - Nível 3
+  - etc.
+- Lista de Sons (Jogador)
+  - Sons de Movimento do Personagem
+    - Exemplos 1
+    - Exemplos 2
     - etc.
-  - Environmental Art Lists
-    - Example #1
-    - Example #2 
-    - Example #3
-    - etc.
-
-## Sound
-  - Sound List (Ambient)
-    - Outside
-      - Level 1
-      - Level 2 
-      - Level 3
+  - Sons de Impacto / Colisão do Personagem
+      - Exemplos 1
+      - Exemplos 2
       - etc.
-    - Inside
-      - Level 1
-      - Level 2
-      - Level 3
+  - Sons de Ferimento / Morte do Personagem
+      - Exemplos 1
+      - Exemplos 2
       - etc.
-  - Sound List (Player)
-    - Character Movement Sound List
-      - Example 1
-      - Example 2
-      - etc. 
-    - Character Hit / Collision Sound list
-      - Example 1
-      - Example 2
-      - etc.
-    - Character on Injured / Death sound list
-      - Example 1
-      - Example 2
-      - etc.
+# Código
+- Scripts de Personagem (Player Pawn/Player Controller)
+  - Exemplo
+- Scripts de Ambiente (Roda em segundo plano)
+  - Exemplo
+- Scripts de NPCs
+  - Exemplo
+# Animação
+- Animações de Ambiente
+  - Exemplo
+- Animações de Personagem
+  - Jogador
+    - Exemplo
+  - NPC
+    - Exemplo
 
-## Code
-  - Character Scripts (Player Pawn/Player Controller)
-    - Example
-  - Ambient Scripts (Runs in the background)
-    - Example
-  - NPC Scripts
-    - Example
+# Cronograma
+- <Objeto #1>
+  - Escala de Tempo
+    - Marco (Milestone) 1
+    - Marco (Milestone) 2
+    - Etc.
+- <Objeto #2>
+  - Escala de Tempo
+    - Marcos...
+- <Objeto #3>
+  - Escala de Tempo
+    - Marco (Milestone) 1
+    - Marco (Milestone) 2
+    - Etc.
 
-## Animation
-  - Environment Animations 
-    - Example
-  - Character Animations 
-    - Player
-      - Example 
-    - NPC
-      - Example
+- <Objeto #4>
+  - Escala de Tempo
+    - Marco (Milestone) 1
+    - Marco (Milestone) 2
+    - Etc.
 
-# Schedule
-  - <Object #1>
-    - Time Scale
-      - Milestone 1
-      - Milestone 2
-      - Etc.
-  - <Object #2>
-    - Time Scale
-      - Milestone 1
-      - Milestone 2
-      - Etc.
-  - <Object #3>
-    - Time Scale
-      - Milestone 1
-      - Milestone 2
-      - Etc.
-  - <Object #4>
-    - Time Scale
-      - Milestone 1
-      - Milestone 2
-      - Etc.
